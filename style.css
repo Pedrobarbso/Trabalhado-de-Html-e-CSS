@@ -1,0 +1,32 @@
+
+body {
+    background-color: yellow;
+    font-family: Arial;
+}
+
+.card {
+    background-color: white;
+    width: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: purple;
+}
+
+p {
+    color: #555555;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border: none;
+}
